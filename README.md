@@ -10,7 +10,12 @@ Take control of your Reddit experience. Perfect for:
 - Blocking unwanted content
 - Boosting productivity
 
-> **Note:** This extension supports **all versions of Reddit**.
+> **Note:**
+>  This extension supports **all versions of Reddit**.
+> 
+> &
+> 
+> Has been tested on **Chrome & FireFox - on Windows & IOS & Android**.
 
 ---
 
@@ -29,13 +34,22 @@ Take control of your Reddit experience. Perfect for:
 - ⬇️ **Import** keywords
 - ⬆️ **Export** keywords
 - 🗂️ Manageable **keyword lists**:
+  - Create new
   - Edit
   - Delete
-  - Create new
- 
+  - Share
+  
 
 # 📦 Changelog
 
+## [1.2.10]
+- ➕ Added FireFox support
+- ➕ Added filter count pop-up when hiding posts
+- ➕ Added the option to apply word-boundries when matching keywords 
+- 🛠️ Fixed hint labels not displaying properly when on screen edge
+- 🛠️ Few UI enhancements
+- ➕ Added 'Share' button for keywords lists
+  
 ## [1.2.9]
 - 🛠️ Fixed bug when migrating from older data structure  
 - ➕ Added option to initialize new subreddits with current all-subreddits keywords
