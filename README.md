@@ -15,7 +15,12 @@ Take control of your Reddit experience. Perfect for:
 > 
 > &
 > 
-> Has been tested on **Chrome & FireFox - on Windows & IOS & Android**.
+> Has been tested on: **
+> 1-  Windows/desktop >> Chrome & FireFox, from chrome store or manually
+> 
+> 2-   IOS/ipad >> Orion Browser, from chrome store
+> 
+> 3-   Android >> Yandex Browser, from chrome store**.
 
 ---
 
@@ -42,6 +47,13 @@ Take control of your Reddit experience. Perfect for:
 
 # 📦 Changelog
 
+## [1.2.11]
+- ➕ Added custome pop-up to replace browser's confirm pop-up
+- ➕ Added "don't show again" option in the update banner
+- 🛠️ Fixed ClearAll button not deleting displayed keywords from the active table
+- 🛠️ Fixed pop-up hint not displaying properly when it's too large or when on screen bottom
+- 🛠️ Few UI enhancements
+  
 ## [1.2.10]
 - ➕ Added FireFox support
 - ➕ Added filter count pop-up when hiding posts
