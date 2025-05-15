@@ -15,12 +15,13 @@ Take control of your Reddit experience. Perfect for:
 > 
 > &
 > 
-> Has been tested on: **
+> **Has been tested on**:
+> 
 > 1-  Windows/desktop >> Chrome & FireFox, from chrome store or manually
 > 
 > 2-   IOS/ipad >> Orion Browser, from chrome store
 > 
-> 3-   Android >> Yandex Browser, from chrome store**.
+> 3-   Android >> Yandex Browser, from chrome store.
 
 ---
 
