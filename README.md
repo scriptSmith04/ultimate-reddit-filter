@@ -48,6 +48,9 @@ Take control of your Reddit experience. Perfect for:
 
 # 📦 Changelog
 
+## [1.2.12]
+- 🛠️ Fixed a bug that prevented older Chromium-based Android browsers from updating.
+  
 ## [1.2.11]
 - ➕ Added custome pop-up to replace browser's confirm pop-up
 - ➕ Added "don't show again" option in the update banner
