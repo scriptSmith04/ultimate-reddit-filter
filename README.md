@@ -48,8 +48,16 @@ Take control of your Reddit experience. Perfect for:
 
 # 📦 Changelog
 
+## [1.2.13]
+- ➕ Added 'filter on search page' option
+- ➕ Added support for specifying a username placeholder when renaming comment username
+- ➕ Added 'hide comment username' option
+- ➕ Added 'view release changelog!' button on settings page
+- 🛠️ Fixed a bug that allowed duplicates when entering keywords using list format
+- 🛠️ Few UI enhancements
+  
 ## [1.2.12]
-- 🛠️ Fixed a bug that prevented older Chromium-based Android browsers from updating.
+- 🛠️ Fixed a bug that prevented older Chromium-based Android browsers from updating
   
 ## [1.2.11]
 - ➕ Added custome pop-up to replace browser's confirm pop-up
