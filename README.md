@@ -47,7 +47,24 @@ Take control of your Reddit experience. Perfect for:
   
 
 # 📦 Changelog
-
+## [1.3.13]
+- ➕ Added general options card in settings with the following features:
+  - **All Posts**:
+    - Rename Username
+    - Remove Username
+    - Remove Avatar
+    - Remove Media
+  - **All Comments**:
+    - Disable Comments
+    - Rename Username
+    - Remove Username
+    - Remove Avatar
+    - Collapse Replies
+- ➕ Added close button to filterCount popup
+- 🛠️ Fixed a bug that caused filterCount popup countdown animation to lag on filterCount value change
+- ➕ Added count plural logic for filterCount popup
+- ➕ Added filter on user profile option
+- 🛠️ Few UI enhancements
 ## [1.2.13]
 - ➕ Added 'filter on search page' option
 - ➕ Added support for specifying a username placeholder when renaming comment username
