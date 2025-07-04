@@ -47,6 +47,12 @@ Take control of your Reddit experience. Perfect for:
   
 
 # 📦 Changelog
+## [1.3.14]
+- ➕ Added the option to enter custome username placeholder for global options/all posts/ rename username
+- ➕ Added the option to enter custome username placeholder for global options/all comments/ rename username
+- 🛠️ Fixed a bug that disabled collapse comment replies option in general options/all comments/collapse replies 
+- 🛠️ Minor UI enhancements
+  
 ## [1.3.13]
 - ➕ Added general options card in settings with the following features:
   - **All Posts**:
