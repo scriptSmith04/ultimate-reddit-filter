@@ -47,6 +47,10 @@ Take control of your Reddit experience. Perfect for:
   
 
 # 📦 Changelog
+
+## [1.3.15]
+- 🛠️ Fixed a bug that caused the deletion of collapsed replies' content
+
 ## [1.3.14]
 - ➕ Added the option to enter custome username placeholder for global options/all posts/ rename username
 - ➕ Added the option to enter custome username placeholder for global options/all comments/ rename username
