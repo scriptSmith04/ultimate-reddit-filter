@@ -1,6 +1,8 @@
 # 🛡️ Ultimate Reddit Filter
 
 [![Download on Chrome Web Store](https://img.shields.io/badge/Download-Chrome%20Web%20Store-blue?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/ultimate-reddit-filter/mkgoifedffhajjchmppjdodfgmeeahne)
+[![Download on Firefox Add-ons](https://img.shields.io/badge/Download-Firefox%20Add--ons%20%20%20%20%20-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/ultimate-reddit-filter/)
+
 
 **Ultimate Reddit Filter** is a lightweight browser extension that lets you filter Reddit posts and comments by keywords in titles or flairs — either across all subreddits or just the ones you choose.
 
