@@ -50,6 +50,11 @@ Take control of your Reddit experience. Perfect for:
 
 # 📦 Changelog
 
+## [1.4.0]
+- ➕ Added new feature 'Block posts by subreddit'
+- 🛠️ Minor UI enhancements
+
+  
 ## [1.3.15]
 - 🛠️ Fixed a bug that caused the deletion of collapsed replies' content
 
