@@ -1,14 +1,14 @@
-# 🛡️ Ultimate Reddit Filter
+# <img src="https://github.com/user-attachments/assets/6eab4b6d-dd83-423f-91b8-74e4f216bbf1" width="48" height="48" /> Ultimate Reddit Filter
 
 [![Download on Chrome Web Store](https://img.shields.io/badge/Download-Chrome%20Web%20Store-blue?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/ultimate-reddit-filter/mkgoifedffhajjchmppjdodfgmeeahne)
 [![Download on Firefox Add-ons](https://img.shields.io/badge/Download-Firefox%20Add--ons%20%20%20%20%20-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/ultimate-reddit-filter/)
 
 
-**Ultimate Reddit Filter** is a lightweight browser extension that lets you filter Reddit posts and comments by keywords in titles or flairs — either across all subreddits or just the ones you choose.
+**Ultimate Reddit Filter** is a lightweight browser extension that lets you filter Reddit posts and comments by keywords in titles, flairs or subreddits — either across all subreddits or just the ones you choose.
 
 Take control of your Reddit experience. Perfect for:
 - Cleaning up your feed
-- Removing spoilers
+- Removing spoilers and politics
 - Blocking unwanted content
 - Boosting productivity
 
@@ -29,31 +29,42 @@ Take control of your Reddit experience. Perfect for:
 
 ## 🔑 Key Features
 
-- 🔍 Filter **posts and comments** by **title** and/or **flair**
+- 🔍 Filter **posts and comments** by **title**, **flair** or **subreddit**
 - 🌍 Apply filters **globally** or to **specific subreddits**
 - ⚙️ Full control with **post and comment filter customizations**
-- 📚 Easily **add, search, and manage** keywords
-- 🧠 Smart UI with tabs for:
-  - Keyword types
-  - Subreddit-specific filtering
+- 📚 Easily **add, search, and manage** your keywords
+- 🧠 Smart UI with organized tabs
 - 🌙 **Dark mode** & theme toggle
-- 📊 **Live post filtering count**
-- 💾 Simple **save system** and keyword **persistence**
-- ⬇️ **Import** keywords
-- ⬆️ **Export** keywords
+- 📊 **Live post filtering notification** with the ability to show/exclude posts
+- ⬇️ **Import** keywords and settings
+- ⬆️ **Export** keywords and settings
 - 🗂️ Manageable **keyword lists**:
+  - Search
   - Create new
   - Edit
   - Delete
   - Share
+  - Import
   
 
 # 📦 Changelog
 
+## [2.0.0]
+- ➕ Added 'filter posts before they appear' toggle
+- ➕ Added 'post hide notification' toggle
+- ➕ Added view/exclude hidden posts
+- ➕ Added export/import settings
+- ➕ Added download exported data as CSV
+- ➕ Added import exported CSV data
+- ➕ Added 'search by list name or keyword' in keywords lists
+- ➕ Added 'userSince' footer label
+- 🛠️ Revamped the whole user interface
+- 🛠️ Enhanced keywords saving system
+- 🛠️ Enhanced background code efficiency
+  
 ## [1.4.0]
 - ➕ Added new feature 'Block posts by subreddit'
 - 🛠️ Minor UI enhancements
-
   
 ## [1.3.15]
 - 🛠️ Fixed a bug that caused the deletion of collapsed replies' content
