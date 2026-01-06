@@ -49,6 +49,11 @@ Take control of your Reddit experience. Perfect for:
 
 # 📦 Changelog
 
+## [2.0.1]
+- 🛠️ Fixed update banner not displaying in firefox version
+- 🛠️ Fixed 'import via csv file' button closing extension popup in firefox version
+- 🛠️ UI enhancements
+  
 ## [2.0.0]
 - ➕ Added 'filter posts before they appear' toggle
 - ➕ Added 'post hide notification' toggle
