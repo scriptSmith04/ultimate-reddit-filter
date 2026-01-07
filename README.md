@@ -4,47 +4,70 @@
 [![Download on Firefox Add-ons](https://img.shields.io/badge/Download-Firefox%20Add--ons%20%20%20%20%20-orange?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/ultimate-reddit-filter/)
 
 
-**Ultimate Reddit Filter** is a lightweight browser extension that lets you filter Reddit posts and comments by keywords in titles, flairs or subreddits — either across all subreddits or just the ones you choose.
+# 🛡️ Ultimate Reddit Filter
 
-Take control of your Reddit experience. Perfect for:
-- Cleaning up your feed
-- Removing spoilers and politics
-- Blocking unwanted content
-- Boosting productivity
+## Take Control of Your Reddit Experience
 
-> **Note:**
->  This extension supports **all versions of Reddit**.
-> 
-> &
-> 
-> **Has been tested on**:
-> 
-> 1-  Windows/desktop >> a- Chrome from chrome store or manually  b- Firefox from firefox store or manually
-> 
-> 2-   IOS/ipad >> Orion Browser, from chrome store
-> 
-> 3-   Android >> Yandex & Kiwi Browsers, from chrome store.
+Transform how you browse Reddit with **Ultimate Reddit Filter**, a powerful yet lightweight Reddit keyword filtering extension that lets you customize your Reddit feed by filtering posts and comments using keywords in **titles, flairs, and subreddits**.
+
+Whether you want to **block politics on Reddit**, hide spoilers, remove unwanted or distracting content, or boost productivity, this Reddit content filter gives you full control over what you see—across all subreddits or only the ones you choose.
 
 ---
 
-## 🔑 Key Features
+## ✅ Supported Reddit Versions
+- Old Reddit  
+- New Reddit  
+- Compact Reddit  
 
-- 🔍 Filter **posts and comments** by **title**, **flair** or **subreddit**
-- 🌍 Apply filters **globally** or to **specific subreddits**
-- ⚙️ Full control with **post and comment filter customizations**
-- 📚 Easily **add, search, and manage** your keywords
-- 🧠 Smart UI with organized tabs
-- 🌙 **Dark mode** & theme toggle
-- 📊 **Live post filtering notification** with the ability to show/exclude posts
-- ⬇️ **Import** keywords and settings
-- ⬆️ **Export** keywords and settings
-- 🗂️ Manageable **keyword lists**:
-  - Search
-  - Create new
-  - Edit
-  - Delete
-  - Share
+### 🌐 Platform Compatibility
+- **Windows / Desktop** – Chrome & Firefox  
+- **iOS / iPad** – Orion Browser  
+- **Android** – Yandex & Kiwi Browsers  
+
+---
+
+## ✨ Key Features
+
+### 🔍 Post Filtering
+- Filter Reddit posts by keywords via:
+  - **Title**
+  - **Flair**
+  - **Subreddit**
+
+### 🎨 Customize filtered posts display
+- Hide posts
+- Rename post titles
+- Rename post body text
+- Hide media content
+
+### 💬 Comment Filtering
+- Filter Reddit comments by keywords
+- Customize filtered comments:
+  - Hide comment
+  - Rename comment content
+  - Collapse replies
+  - Display original comment on click
+  - Rename username
+  - Remove username
+  - Remove avatar
+
+### ⚙️ Advanced Customization
+- Customize how **all posts and comments** display across all Reddit pages
+- Define the **range** for each keyword (optional):
+  - `All`
+  - `All Except for`
+  - `Only to`
+- Manage preset keywords lists easily:
+  - Add
   - Import
+  - Search
+  - Organize 
+- Dark mode and theme toggle
+- Full control over all keywords and settings
+
+---
+
+
   
 
 # 📦 Changelog
