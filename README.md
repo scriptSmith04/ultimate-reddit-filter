@@ -8,7 +8,7 @@
 
 ## Take Control of Your Reddit Experience
 
-Transform how you browse Reddit with **Ultimate Reddit Filter**, a powerful yet lightweight Reddit keyword filtering extension that lets you customize your Reddit feed by filtering posts and comments using keywords in **titles, flairs, and subreddits**.
+Transform how you browse Reddit with **Ultimate Reddit Filter**, a powerful yet lightweight Reddit keyword filtering extension that lets you customize your Reddit feed by filtering posts and comments using keywords in **titles, flairs, subreddits, and username**.
 
 Whether you want to **block politics on Reddit**, hide spoilers, remove unwanted or distracting content, or boost productivity, this Reddit content filter gives you full control over what you see—across all subreddits or only the ones you choose.
 
@@ -33,7 +33,11 @@ Whether you want to **block politics on Reddit**, hide spoilers, remove unwanted
   - **Title**
   - **Flair**
   - **Subreddit**
-
+  - **Username**
+    
+- Quick actions panel
+   - Quickly and directly block posts via injected options in reddit's post options menu
+  
 ### 🎨 Customize filtered posts display
 - Hide posts
 - Rename post titles
@@ -53,10 +57,11 @@ Whether you want to **block politics on Reddit**, hide spoilers, remove unwanted
 
 ### ⚙️ Advanced Customization
 - Customize how **all posts and comments** display across all Reddit pages
-- Define the **range** for each keyword (optional):
-  - `All`
-  - `All Except for`
-  - `Only to`
+- Customize each keyword's settings:
+    - Range: All / All Except for / Only to
+    - Matching type: Exact Keyword / Includes Keyword
+    - Position in text: Anywhere/ Start/ Middle/ End
+      
 - Manage preset keywords lists easily:
   - Add
   - Import
@@ -71,6 +76,16 @@ Whether you want to **block politics on Reddit**, hide spoilers, remove unwanted
   
 
 # 📦 Changelog
+
+## [2.1.0]
+- ➕ Added language support for 16 languages
+- ➕ Added 'Quick Block' menu injected into Reddit's post options menu
+- ➕ Added 'Block Post by Username' feature
+- ➕ Added 'Block Post by URL' feature
+- ➕ Added the ability to customize each keyword range, position, and boundary
+- ➕ Added feedback and feature request/bug fix submission forms
+- ➕ Added 'Reset to Defaults' feature
+- 🛠️ Minor UI improvements and bug fixes
 
 ## [2.0.1]
 - 🛠️ Fixed update banner not displaying in firefox version
