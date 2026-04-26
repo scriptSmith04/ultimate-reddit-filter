@@ -77,6 +77,13 @@ Whether you want to **block politics on Reddit**, hide spoilers, remove unwanted
 
 # 📦 Changelog
 
+## [2.1.2]
+- ➕ Added quick actions panel indicator on reddits post options button for first time users
+- ➕ Added extension logo in new reddit's quick action panel
+  
+## [2.1.1]
+- 🛠️ Fixed rating url redirect for firefox version
+  
 ## [2.1.0]
 - ➕ Added language support for 16 languages
 - ➕ Added 'Quick Block' menu injected into Reddit's post options menu
