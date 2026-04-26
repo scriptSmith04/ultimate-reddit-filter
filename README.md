@@ -78,7 +78,7 @@ Whether you want to **block politics on Reddit**, hide spoilers, remove unwanted
 # 📦 Changelog
 
 ## [2.1.2]
-- ➕ Added quick actions panel indicator on reddits post options button for first time users
+- ➕ Added quick actions panel indicator on reddit's post options button for first time users
 - ➕ Added extension logo in new reddit's quick action panel
   
 ## [2.1.1]
